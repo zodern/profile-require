@@ -2,7 +2,7 @@ Package.describe({
   name: 'zodern:profile-require',
   summary: 'Profile client imports to identify files impacting load time',
   version: '1.0.0',
-  git: '',
+  git: 'https://github.com/zodern/profile-require.git',
 });
 
 
